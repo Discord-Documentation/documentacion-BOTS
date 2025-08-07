@@ -24,12 +24,6 @@ La documentación encontrada en este apartado ha sido procesada por el equipo de
 Esta documentación NO es oficial, en caso de buscar la documentación oficial, dirígete a la página correspondiente de cada bot.
 {% endhint %}
 
-<h2 align="center">Formulario de errores</h2>
-
-En caso de detectar cualquier incongruencia, carencia de información y demás, en la documentación, por favor rellena el siguiente formulario para que podamos arreglarlo lo antes posible.
-
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSccs9l_jAk8gJe5fQoqXem2T1P6Wg45i2_gM8oR4CKFAkKccA/viewform?usp=header" %}
-
 <h2 align="center">Alcance</h2>
 
 Esta documentación no está afiliada ni respaldada por ninguno de los bots documentados, sin embargo, en caso de que en algún momento llegue a existir un aval de dicha guía, se indicará con una etiqueta correspondiente al inicio de la documentación correspondiente.
